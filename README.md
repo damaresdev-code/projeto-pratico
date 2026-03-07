@@ -13,6 +13,8 @@ mostre o resultado.
 💡 Conceitos usados:
 if, else, operações matemáticas.
 
+---
+
 2️⃣ Conversor de temperatura
 
 Programa que converte:
@@ -26,6 +28,8 @@ F = (C × 9/5) + 32
 
 💡 Conceitos usados:
 variáveis e cálculos.
+
+---
 
 3️⃣ Verificador de número par ou ímpar
 
